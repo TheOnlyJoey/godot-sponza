@@ -10,19 +10,18 @@ config_version=3
 
 [application]
 
-config/name="Sponza"
+config/name="Sponza VR"
 run/main_scene="res://scenes/sponza.scn"
 config/icon="res://icon.png"
 
 [display]
 
 window/size/height=576
-window/size/fullscreen=true
 window/vsync/use_vsync=false
 
 [gdnative]
 
-singletons=[  ]
+singletons=[ "res://bin/godot_openvr.gdnlib" ]
 
 [input]
 
