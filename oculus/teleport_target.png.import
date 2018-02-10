@@ -2,14 +2,14 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/teleport_target.png-d39a7f6eb3177c19c501326f8db177b2.s3tc.stex"
+path.s3tc="res://.import/teleport_target.png-56181f520f0ad3caa2658e2d14b8ed1e.s3tc.stex"
 
 [deps]
 
-source_file="res://ovr/teleport_target.png"
+source_file="res://oculus/teleport_target.png"
 source_md5="ab0554ac76bb0ee9e51deccf3ec6d571"
 
-dest_files=[ "res://.import/teleport_target.png-d39a7f6eb3177c19c501326f8db177b2.s3tc.stex" ]
+dest_files=[ "res://.import/teleport_target.png-56181f520f0ad3caa2658e2d14b8ed1e.s3tc.stex" ]
 dest_md5="4ac2da2e90003125ba1c33b0c5da586a"
 
 [params]

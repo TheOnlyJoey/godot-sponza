@@ -21,7 +21,7 @@ window/vsync/use_vsync=false
 
 [gdnative]
 
-singletons=[ "res://bin/godot_openvr.gdnlib" ]
+singletons=[ "res://bin/godot_oculus.gdnlib" ]
 
 [input]
 
