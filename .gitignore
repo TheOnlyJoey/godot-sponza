@@ -1,4 +1,10 @@
+# Imported assets
 .import/
+
+# Logs when editor logging is enabled
 logs/
+
+# Exported files
+dist/
 Thumbs.db
 *.tmp
